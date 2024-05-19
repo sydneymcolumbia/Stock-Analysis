@@ -1,0 +1,1 @@
+This Linear Regression model provides a basic forecast based on historical trends. While it predicts a continued increase in price, its simplicity and assumptions mean that more sophisticated models could potentially provide more accurate and reliable predictions.
